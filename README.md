@@ -1,4 +1,4 @@
-# Async MTProto Proxy #
+4faa96732f80bcb79c367f87e144a8588fb558ef# Async MTProto Proxy #
 
 Fast and simple to setup MTProto proxy written in Python.
 
