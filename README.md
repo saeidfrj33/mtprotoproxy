@@ -33,3 +33,4 @@ The proxy can be launched:
 - with uvloop module to get an extra speed boost
 - with runtime statistics exported to [Prometheus](https://prometheus.io/)
 https://github.com/saeidfrj33/mtprotoproxy
+afe63ad6ff3e791ab641165ede39760dfd9cafdb
